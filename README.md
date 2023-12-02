@@ -1,5 +1,7 @@
 # student-registration-form-with-discount
-This repository features a dynamic student registration webpage built using HTML, CSS, and JavaScript, offering enhanced functionalities.
+Absolutely, here's a condensed version within the 350-word limit:
+
+"This repository features a dynamic student registration webpage built using HTML, CSS, and JavaScript, offering enhanced functionalities.
 
 Key Features:
 
